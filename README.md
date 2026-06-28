@@ -6,7 +6,7 @@ Built with **LangGraph · GPT-4.1 · MS SQL Server · Pandas · Matplotlib**
 
 ---
 
-## 📌 Resume Bullets
+## 📌 Bullet Points
 
 - **Built an end-to-end Natural Language to SQL (NL2SQL) analytics agent** using LangGraph and GPT-4.1 that converts plain-English business questions into validated T-SQL queries, executes them against a production MS SQL Server database, and auto-generates a PDF business intelligence report with AI-written insights and dynamic charts — reducing ad-hoc data request turnaround from hours to seconds.
 
